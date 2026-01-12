@@ -9,3 +9,6 @@ https://github.com/eclaire-labs/eclaire/
 
 
 https://theresanaiforthat.com/
+
+
+https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
