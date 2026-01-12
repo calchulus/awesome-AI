@@ -19,3 +19,6 @@ https://github.com/coleam00/context-engineering-intro
 Readings on Context Engineering:
 
 https://blog.langchain.com/how-agents-can-use-filesystems-for-context-engineering/
+
+
+https://github.com/langchain-ai/deepagents?ref=blog.langchain.com
