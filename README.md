@@ -7,8 +7,13 @@ https://ampcode.com/
 
 https://github.com/eclaire-labs/eclaire/ 
 
+Full repositories
 
 https://theresanaiforthat.com/
+
+http://awesomeclaude.ai/
+
+https://www.aitmpl.com/
 
 
 https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
@@ -22,3 +27,6 @@ https://blog.langchain.com/how-agents-can-use-filesystems-for-context-engineerin
 
 
 https://github.com/langchain-ai/deepagents?ref=blog.langchain.com
+
+
+
