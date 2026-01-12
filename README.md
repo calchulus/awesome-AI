@@ -12,3 +12,5 @@ https://theresanaiforthat.com/
 
 
 https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+
+https://github.com/coleam00/context-engineering-intro
