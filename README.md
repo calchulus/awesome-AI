@@ -34,6 +34,9 @@ Skills:
 
 https://github.com/VoltAgent/awesome-claude-skills
 
+Best Practices:
+https://github.com/frankbria/ralph-claude-code
+
 
 PRD Creation:
 
