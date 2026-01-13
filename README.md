@@ -34,3 +34,7 @@ Skills:
 
 https://github.com/VoltAgent/awesome-claude-skills
 
+
+PRD Creation:
+
+https://firesidepm.substack.com/p/i-tested-5-ai-tools-to-write-a-prdheres
