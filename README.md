@@ -30,6 +30,9 @@ https://github.com/langchain-ai/deepagents?ref=blog.langchain.com
 
 
 
+Claude:
+ claude.com/blog/cowork-research-preview
+
 Skills:
 
 https://github.com/VoltAgent/awesome-claude-skills
