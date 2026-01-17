@@ -53,3 +53,7 @@ https://firesidepm.substack.com/p/i-tested-5-ai-tools-to-write-a-prdheres
 
 Commerce, Agentic Payments, etc.
 https://blog.google/company-news/inside-google/message-ceo/nrf-2026-remarks/
+
+
+Github
+https://github.com/features/copilot
