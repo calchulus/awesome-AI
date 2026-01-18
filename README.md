@@ -34,7 +34,7 @@ https://github.com/langchain-ai/deepagents?ref=blog.langchain.com
 
 
 Claude:
- claude.com/blog/cowork-research-preview
+ https://claude.com/blog/cowork-research-preview
 
  https://support.claude.com/en/articles/13345190-getting-started-with-cowork
 
