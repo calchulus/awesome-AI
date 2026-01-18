@@ -2,6 +2,8 @@
 
 Throwing this down as a public notepad of some interesting AI things
 
+
+
 General Links
 
 https://ampcode.com/
@@ -10,7 +12,7 @@ https://github.com/obra/superpowers
 
 https://github.com/eclaire-labs/eclaire/ 
 
-Full repositories
+General Toolings 
 
 https://theresanaiforthat.com/
 
@@ -19,12 +21,13 @@ http://awesomeclaude.ai/
 https://www.aitmpl.com/
 
 
+Readings on Context Engineering:
+
 https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
 
 https://github.com/coleam00/context-engineering-intro
 
 
-Readings on Context Engineering:
 
 https://blog.langchain.com/how-agents-can-use-filesystems-for-context-engineering/
 
@@ -34,7 +37,7 @@ https://github.com/langchain-ai/deepagents?ref=blog.langchain.com
 
 
 Claude:
- claude.com/blog/cowork-research-preview
+ https://claude.com/blog/cowork-research-preview
 
  https://support.claude.com/en/articles/13345190-getting-started-with-cowork
 
