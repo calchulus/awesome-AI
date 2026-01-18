@@ -60,4 +60,6 @@ https://github.com/features/copilot
 
 Ralph Wiggums
 
+https://awesomeclaude.ai/ralph-wiggum
 https://github.com/vibeforge1111/vibeship-idearalph
+
