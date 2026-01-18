@@ -2,6 +2,8 @@
 
 Throwing this down as a public notepad of some interesting AI things
 
+General Links
+
 https://ampcode.com/
 
 https://github.com/obra/superpowers
