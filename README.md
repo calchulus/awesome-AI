@@ -82,3 +82,5 @@ https://code.claude.com/docs/en/chrome
 Notion
 https://x.com/testingcatalog/status/2013255650294267971
 
+https://www.notion.com/templates/collections/9-templates-to-supercharge-your-workflows-with-notion-ai
+
