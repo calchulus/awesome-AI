@@ -79,3 +79,6 @@ https://github.com/21st-dev/1code
 Claude in Chrome
 https://code.claude.com/docs/en/chrome
 
+Notion
+https://x.com/testingcatalog/status/2013255650294267971
+
