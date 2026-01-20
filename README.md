@@ -28,6 +28,9 @@ https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agent
 https://github.com/coleam00/context-engineering-intro
 
 
+https://github.com/davidkimai/Context-Engineering
+
+
 
 https://blog.langchain.com/how-agents-can-use-filesystems-for-context-engineering/
 
@@ -83,4 +86,5 @@ Notion
 https://x.com/testingcatalog/status/2013255650294267971
 
 https://www.notion.com/templates/collections/9-templates-to-supercharge-your-workflows-with-notion-ai
+
 
