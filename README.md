@@ -38,6 +38,8 @@ https://blog.langchain.com/how-agents-can-use-filesystems-for-context-engineerin
 https://github.com/langchain-ai/deepagents?ref=blog.langchain.com
 
 
+Prompt:
+https://x.com/heyrobinai/status/2011780547614281938
 
 Claude:
  https://claude.com/blog/cowork-research-preview
