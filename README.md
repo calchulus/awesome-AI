@@ -90,3 +90,5 @@ https://x.com/testingcatalog/status/2013255650294267971
 https://www.notion.com/templates/collections/9-templates-to-supercharge-your-workflows-with-notion-ai
 
 
+Claude Skills
+https://github.com/op7418/Youtube-clipper-skill
