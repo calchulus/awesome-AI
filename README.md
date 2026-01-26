@@ -92,3 +92,7 @@ https://www.notion.com/templates/collections/9-templates-to-supercharge-your-wor
 
 Claude Skills
 https://github.com/op7418/Youtube-clipper-skill
+
+
+Clawd
+https://clawd.bot/
